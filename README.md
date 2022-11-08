@@ -1,2 +1,2 @@
-# CNN-for-iamge-classification-ofcats and dogs
+# CNN-for-image classification of chess pieces (minus the king)
 
